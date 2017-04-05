@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="false">
+
+	<!-- ************************************************** -->
+	<!-- PROPERTIES -->
+
+	<!-- default log level is info -->
+	<!-- overridden by system property default.log.level -->
+	<property name="defaultLevel" value="${log.default.level:-debug}"
+		scope="system" />
+
+	<!-- log to files by default -->
+	<!-- overridden by system property default.log.appender -->
+	<property name="defaultAppender" value="${log.default.appender:-logfiles}"
+		scope="system" />
+
+	<property name="logdir" value="logs" scope="system" />
+
+	<property name="defaultPattern"
+		value="%date{yyyy/MM/dd HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%method:%line - %msg%n"
+		scope="system" />
+
+
+	<!-- ************************************************** -->
+	<!-- APPENDERS -->
+
+	<appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>${defaultPattern}</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="logfiles"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<File>${logdir}/hmr_ticketing_svc.log</File>
+		<encoder>
+			<pattern>${defaultPattern}</pattern>
+		</encoder>
+		<rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+			<maxIndex>10</maxIndex>
+			<FileNamePattern>${logdir}/hmr_ticketing_svc.log.%i.gz
+			</FileNamePattern>
+		</rollingPolicy>
+		<triggeringPolicy
+			class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+			<maxFileSize>10MB</maxFileSize>
+		</triggeringPolicy>
+	</appender>
+
+
+
+	<!-- ************************************************** -->
+	<!-- ROOT -->
+
+	<root level="${defaultLevel}">
+		<appender-ref ref="${defaultAppender}" />
+	</root>
+
+</configuration>

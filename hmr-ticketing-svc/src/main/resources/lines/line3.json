@@ -1,0 +1,122 @@
+{
+	"code": "line3",
+	"name": "Line III",
+	"length": "28 KM",
+	"stationList": 
+	[
+		{
+			"code": "C1",
+			"name": "Nagole"
+		},
+
+		{
+			"code": "C2",
+			"name": "Uppal"
+		},
+
+		{
+			"code": "C3",
+			"name": "Survey of India"
+		},
+
+		{
+			"code": "C4",
+			"name": "NGRI"
+		},
+
+		{
+			"code": "C5",
+			"name": "Habsiguda"
+		},
+
+		{
+			"code": "C6",
+			"name": "Tarnaka"
+		},
+
+		{
+			"code": "C7",
+			"name": "Mettuguda"
+		},
+
+		{
+			"code": "C8",
+			"name": "Secunderabad"
+		},
+
+		{
+			"code": "X3",
+			"name": "Parade Grounds"
+		},
+
+		{
+			"code": "C10",
+			"name": "Paradise"
+		},
+
+		{
+			"code": "C11",
+			"name": "Rasool Pura"
+		},
+
+		{
+			"code": "C12",
+			"name": "Prakash Nagar"
+		},
+
+		{
+			"code": "C13",
+			"name": "Begumpet"
+		},
+
+		{
+			"code": "X1",
+			"name": "Ameerpet"
+		},
+
+		{
+			"code": "C15",
+			"name": "Madhura Nagar"
+		},
+
+		{
+			"code": "C16",
+			"name": "Yusuf Guda"
+		},
+
+		{
+			"code": "C17",
+			"name": "Road No 5 Jubilee Hills"
+		},
+
+		{
+			"code": "C18",
+			"name": "Jubilee Hills Check Post"
+		},
+
+		{
+			"code": "C19",
+			"name": "Pedamma Temple"
+		},
+
+		{
+			"code": "C20",
+			"name": "Madhapur"
+		},
+
+		{
+			"code": "C21",
+			"name": "Durgam Chervu"
+		},
+
+		{
+			"code": "C22",
+			"name": "HITEC City"
+		},
+
+		{
+			"code": "C23",
+			"name": "Shilparamam"
+		}
+	]
+}

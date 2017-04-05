@@ -1,0 +1,570 @@
+2016/03/15 11:03:58.718 [main] WARN  c.q.x.h.t.entities.LineFactory.lambda$0:31 - Deserialized line is NULL for D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines
+2016/03/15 11:03:58.723 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line1.json
+2016/03/15 11:03:58.796 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A1:Miyapur]
+2016/03/15 11:03:58.797 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A2:JNTU College]
+2016/03/15 11:03:58.797 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A3:KPHB Colony]
+2016/03/15 11:03:58.797 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A4:Kukatpally]
+2016/03/15 11:03:58.798 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A5:Balanagar]
+2016/03/15 11:03:58.798 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A6:Moosapet]
+2016/03/15 11:03:58.798 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A7:Bharat Nagar]
+2016/03/15 11:03:58.798 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A8:Erragadda]
+2016/03/15 11:03:58.798 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A9:ESI Hospital]
+2016/03/15 11:03:58.799 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A10:S R Nagar]
+2016/03/15 11:03:58.799 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [X1:Ameerpet]
+2016/03/15 11:03:58.799 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A12:Punjagutta]
+2016/03/15 11:03:58.799 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A13:Irrum Manzil]
+2016/03/15 11:03:58.799 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A14:Khairatabad]
+2016/03/15 11:03:58.800 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A15:Lakdikapul]
+2016/03/15 11:03:58.800 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A16:Assembly]
+2016/03/15 11:03:58.800 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A17:Nampally]
+2016/03/15 11:03:58.800 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A18:Gandhi Bhavan]
+2016/03/15 11:03:58.800 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A19:Osmania Medical College]
+2016/03/15 11:03:58.801 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [X2:MG Bus station]
+2016/03/15 11:03:58.801 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A21:Malakpet]
+2016/03/15 11:03:58.801 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A22:New Market]
+2016/03/15 11:03:58.801 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A23:Musarambagh]
+2016/03/15 11:03:58.801 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A24:Dilsukhnagar]
+2016/03/15 11:03:58.802 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A25:Chaitanyapuri]
+2016/03/15 11:03:58.802 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A26:Victoria Memorial]
+2016/03/15 11:03:58.802 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [A27:L B Nagar]
+2016/03/15 11:03:58.803 [main] DEBUG c.q.x.h.ticketing.model.LineRegister.registerLine:27 - Registered Line: Line [line1: Line I]
+2016/03/15 11:03:58.803 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line2.json
+2016/03/15 11:03:58.804 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B1:JBS]
+2016/03/15 11:03:58.804 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [X3:Parade Grounds]
+2016/03/15 11:03:58.804 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B3:Secunderabad Railway Station]
+2016/03/15 11:03:58.804 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B4:Gandhi Hospital]
+2016/03/15 11:03:58.805 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B5:Musheerabad]
+2016/03/15 11:03:58.805 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B6:RTC Cross Roads]
+2016/03/15 11:03:58.805 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B7:Chikkadpally]
+2016/03/15 11:03:58.805 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B8:Narayanguda]
+2016/03/15 11:03:58.806 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B9:Sultan Bazar]
+2016/03/15 11:03:58.806 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B11:Salarjung Museum]
+2016/03/15 11:03:58.806 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B12:Charminar]
+2016/03/15 11:03:58.806 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B13:Shalibanda]
+2016/03/15 11:03:58.806 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B14:Shamsher Gunj]
+2016/03/15 11:03:58.807 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B15:Jungametta]
+2016/03/15 11:03:58.807 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [B16:Falaknuma]
+2016/03/15 11:03:58.807 [main] DEBUG c.q.x.h.ticketing.model.LineRegister.registerLine:27 - Registered Line: Line [line2: Line II]
+2016/03/15 11:03:58.807 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line3.json
+2016/03/15 11:03:58.808 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C1:Nagole]
+2016/03/15 11:03:58.808 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C2:Uppal]
+2016/03/15 11:03:58.808 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C3:Survey of India]
+2016/03/15 11:03:58.809 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C4:NGRI]
+2016/03/15 11:03:58.809 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C5:Habsiguda]
+2016/03/15 11:03:58.809 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C6:Tarnaka]
+2016/03/15 11:03:58.809 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C7:Mettuguda]
+2016/03/15 11:03:58.809 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C8:Secunderabad]
+2016/03/15 11:03:58.809 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C10:Paradise]
+2016/03/15 11:03:58.810 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C11:Rasool Pura]
+2016/03/15 11:03:58.810 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C12:Prakash Nagar]
+2016/03/15 11:03:58.810 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C13:Begumpet]
+2016/03/15 11:03:58.810 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C15:Madhura Nagar]
+2016/03/15 11:03:58.810 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C16:Yusuf Guda]
+2016/03/15 11:03:58.811 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C17:Road No 5 Jubilee Hills]
+2016/03/15 11:03:58.811 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C18:Jubilee Hills Check Post]
+2016/03/15 11:03:58.811 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C19:Pedamma Temple]
+2016/03/15 11:03:58.811 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C20:Madhapur]
+2016/03/15 11:03:58.812 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C21:Durgam Chervu]
+2016/03/15 11:03:58.812 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C22:HITEC City]
+2016/03/15 11:03:58.812 [main] DEBUG c.q.x.h.t.model.StationRegister.registerStation:19 - Registered Station: Station [C23:Shilparamam]
+2016/03/15 11:03:58.812 [main] DEBUG c.q.x.h.ticketing.model.LineRegister.registerLine:27 - Registered Line: Line [line3: Line III]
+2016/03/15 11:03:58.814 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\fares.json
+2016/03/15 11:03:58.828 [main] DEBUG c.q.x.h.t.fares.FareCalculator.setFares:21 - Fares [baseFare=BaseFare [maxStations=3, minFare=10.0], lineFareMap={Line [line3: Line III]=3.0, Line [line1: Line I]=2.5, Line [line2: Line II]=2.0}]
+2016/03/15 11:03:58.832 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Rasool Pura to Nampally
+2016/03/15 11:03:58.832 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Rasool Pura to Current Route
+2016/03/15 11:03:58.832 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Rasool Pura:Line III] to Current Route
+2016/03/15 11:03:58.832 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Parade Grounds to Nampally
+2016/03/15 11:03:58.832 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Parade Grounds to Current Route
+2016/03/15 11:03:58.833 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between Rasool Pura & Ameerpet: Line III
+2016/03/15 11:03:58.833 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Parade Grounds:Line II] to Current Route
+2016/03/15 11:03:58.833 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from MG Bus station to Nampally
+2016/03/15 11:03:58.833 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added MG Bus station to Current Route
+2016/03/15 11:03:58.833 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between MG Bus station & Nampally: Line I
+2016/03/15 11:03:58.833 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:43 - Found Route to Destination: Route [stations=[Station [C11:Rasool Pura], Station [X3:Parade Grounds], Station [X2:MG Bus station], Station [A17:Nampally]]]
+2016/03/15 11:03:58.834 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Rasool Pura:Line III] to Current Route
+2016/03/15 11:03:58.834 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Ameerpet to Nampally
+2016/03/15 11:03:58.834 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Ameerpet to Current Route
+2016/03/15 11:03:58.834 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between Ameerpet & Nampally: Line I
+2016/03/15 11:03:58.834 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:43 - Found Route to Destination: Route [stations=[Station [C11:Rasool Pura], Station [X1:Ameerpet], Station [A17:Nampally]]]
+2016/03/15 11:03:58.835 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Rasool Pura & Parade Grounds: 2
+2016/03/15 11:03:58.835 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Parade Grounds & MG Bus station: 8
+2016/03/15 11:03:58.835 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between MG Bus station & Nampally: 3
+2016/03/15 11:03:58.836 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:58 - FareResult [totalFare=31.5, totalStations=13]
+2016/03/15 11:03:58.836 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Rasool Pura & Ameerpet: 3
+2016/03/15 11:03:58.836 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Ameerpet & Nampally: 6
+2016/03/15 11:03:58.836 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:58 - FareResult [totalFare=25.0, totalStations=9]
+2016/03/15 15:08:04.418 [main] WARN  c.q.x.h.t.entities.LineFactory.lambda$0:31 - Deserialized line is NULL for D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines
+2016/03/15 15:08:04.422 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line1.json
+2016/03/15 15:08:04.468 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A1:Miyapur]
+2016/03/15 15:08:04.468 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A2:JNTU College]
+2016/03/15 15:08:04.469 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A3:KPHB Colony]
+2016/03/15 15:08:04.469 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A4:Kukatpally]
+2016/03/15 15:08:04.469 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A5:Balanagar]
+2016/03/15 15:08:04.469 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A6:Moosapet]
+2016/03/15 15:08:04.469 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A7:Bharat Nagar]
+2016/03/15 15:08:04.469 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A8:Erragadda]
+2016/03/15 15:08:04.469 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A9:ESI Hospital]
+2016/03/15 15:08:04.469 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A10:S R Nagar]
+2016/03/15 15:08:04.470 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [X1:Ameerpet]
+2016/03/15 15:08:04.470 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A12:Punjagutta]
+2016/03/15 15:08:04.470 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A13:Irrum Manzil]
+2016/03/15 15:08:04.470 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A14:Khairatabad]
+2016/03/15 15:08:04.470 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A15:Lakdikapul]
+2016/03/15 15:08:04.470 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A16:Assembly]
+2016/03/15 15:08:04.470 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A17:Nampally]
+2016/03/15 15:08:04.471 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A18:Gandhi Bhavan]
+2016/03/15 15:08:04.471 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A19:Osmania Medical College]
+2016/03/15 15:08:04.471 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [X2:MG Bus station]
+2016/03/15 15:08:04.471 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A21:Malakpet]
+2016/03/15 15:08:04.471 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A22:New Market]
+2016/03/15 15:08:04.471 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A23:Musarambagh]
+2016/03/15 15:08:04.471 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A24:Dilsukhnagar]
+2016/03/15 15:08:04.471 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A25:Chaitanyapuri]
+2016/03/15 15:08:04.471 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A26:Victoria Memorial]
+2016/03/15 15:08:04.472 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A27:L B Nagar]
+2016/03/15 15:08:04.472 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:27 - Registered Line: Line [line1: Line I]
+2016/03/15 15:08:04.472 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line2.json
+2016/03/15 15:08:04.473 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B1:JBS]
+2016/03/15 15:08:04.473 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [X3:Parade Grounds]
+2016/03/15 15:08:04.473 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B3:Secunderabad Railway Station]
+2016/03/15 15:08:04.473 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B4:Gandhi Hospital]
+2016/03/15 15:08:04.473 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B5:Musheerabad]
+2016/03/15 15:08:04.473 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B6:RTC Cross Roads]
+2016/03/15 15:08:04.473 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B7:Chikkadpally]
+2016/03/15 15:08:04.474 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B8:Narayanguda]
+2016/03/15 15:08:04.474 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B9:Sultan Bazar]
+2016/03/15 15:08:04.474 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B11:Salarjung Museum]
+2016/03/15 15:08:04.474 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B12:Charminar]
+2016/03/15 15:08:04.474 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B13:Shalibanda]
+2016/03/15 15:08:04.474 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B14:Shamsher Gunj]
+2016/03/15 15:08:04.474 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B15:Jungametta]
+2016/03/15 15:08:04.474 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B16:Falaknuma]
+2016/03/15 15:08:04.475 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:27 - Registered Line: Line [line2: Line II]
+2016/03/15 15:08:04.475 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line3.json
+2016/03/15 15:08:04.475 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C1:Nagole]
+2016/03/15 15:08:04.476 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C2:Uppal]
+2016/03/15 15:08:04.476 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C3:Survey of India]
+2016/03/15 15:08:04.476 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C4:NGRI]
+2016/03/15 15:08:04.476 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C5:Habsiguda]
+2016/03/15 15:08:04.476 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C6:Tarnaka]
+2016/03/15 15:08:04.476 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C7:Mettuguda]
+2016/03/15 15:08:04.476 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C8:Secunderabad]
+2016/03/15 15:08:04.476 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C10:Paradise]
+2016/03/15 15:08:04.476 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C11:Rasool Pura]
+2016/03/15 15:08:04.477 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C12:Prakash Nagar]
+2016/03/15 15:08:04.477 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C13:Begumpet]
+2016/03/15 15:08:04.477 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C15:Madhura Nagar]
+2016/03/15 15:08:04.477 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C16:Yusuf Guda]
+2016/03/15 15:08:04.477 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C17:Road No 5 Jubilee Hills]
+2016/03/15 15:08:04.477 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C18:Jubilee Hills Check Post]
+2016/03/15 15:08:04.477 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C19:Pedamma Temple]
+2016/03/15 15:08:04.477 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C20:Madhapur]
+2016/03/15 15:08:04.477 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C21:Durgam Chervu]
+2016/03/15 15:08:04.478 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C22:HITEC City]
+2016/03/15 15:08:04.478 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C23:Shilparamam]
+2016/03/15 15:08:04.478 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:27 - Registered Line: Line [line3: Line III]
+2016/03/15 15:08:04.479 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\fares.json
+2016/03/15 15:08:04.488 [main] DEBUG c.q.x.h.t.fares.FareCalculator.setFares:21 - Fares [baseFare=BaseFare [maxStations=3, minFare=10.0], lineFareMap={Line [line3: Line III]=3.0, Line [line1: Line I]=2.5, Line [line2: Line II]=2.0}]
+2016/03/15 15:08:04.491 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Rasool Pura to Nampally
+2016/03/15 15:08:04.491 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Rasool Pura to Current Route
+2016/03/15 15:08:04.491 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Rasool Pura:Line III] to Current Route
+2016/03/15 15:08:04.491 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Parade Grounds to Nampally
+2016/03/15 15:08:04.491 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Parade Grounds to Current Route
+2016/03/15 15:08:04.491 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between Rasool Pura & Ameerpet: Line III
+2016/03/15 15:08:04.491 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Parade Grounds:Line II] to Current Route
+2016/03/15 15:08:04.491 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from MG Bus station to Nampally
+2016/03/15 15:08:04.492 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added MG Bus station to Current Route
+2016/03/15 15:08:04.492 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between MG Bus station & Nampally: Line I
+2016/03/15 15:08:04.492 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:43 - Found Route to Destination: Route [stations=[Station [C11:Rasool Pura], Station [X3:Parade Grounds], Station [X2:MG Bus station], Station [A17:Nampally]]]
+2016/03/15 15:08:04.492 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Rasool Pura:Line III] to Current Route
+2016/03/15 15:08:04.492 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Ameerpet to Nampally
+2016/03/15 15:08:04.492 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Ameerpet to Current Route
+2016/03/15 15:08:04.492 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between Ameerpet & Nampally: Line I
+2016/03/15 15:08:04.492 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:43 - Found Route to Destination: Route [stations=[Station [C11:Rasool Pura], Station [X1:Ameerpet], Station [A17:Nampally]]]
+2016/03/15 15:08:04.493 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Rasool Pura & Parade Grounds: 2
+2016/03/15 15:08:04.493 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Parade Grounds & MG Bus station: 8
+2016/03/15 15:08:04.493 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between MG Bus station & Nampally: 3
+2016/03/15 15:08:04.493 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:58 - FareResult [totalFare=31.5, totalStations=13]
+2016/03/15 15:08:04.493 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Rasool Pura & Ameerpet: 3
+2016/03/15 15:08:04.493 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Ameerpet & Nampally: 6
+2016/03/15 15:08:04.493 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:58 - FareResult [totalFare=25.0, totalStations=9]
+2016/03/15 15:43:45.785 [main] WARN  c.q.x.h.t.entities.LineFactory.lambda$0:31 - Deserialized line is NULL for D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines
+2016/03/15 15:43:45.791 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line1.json
+2016/03/15 15:43:45.865 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A1:Miyapur]
+2016/03/15 15:43:45.865 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A2:JNTU College]
+2016/03/15 15:43:45.865 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A3:KPHB Colony]
+2016/03/15 15:43:45.866 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A4:Kukatpally]
+2016/03/15 15:43:45.866 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A5:Balanagar]
+2016/03/15 15:43:45.866 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A6:Moosapet]
+2016/03/15 15:43:45.866 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A7:Bharat Nagar]
+2016/03/15 15:43:45.866 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A8:Erragadda]
+2016/03/15 15:43:45.867 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A9:ESI Hospital]
+2016/03/15 15:43:45.867 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A10:S R Nagar]
+2016/03/15 15:43:45.867 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [X1:Ameerpet]
+2016/03/15 15:43:45.867 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A12:Punjagutta]
+2016/03/15 15:43:45.867 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A13:Irrum Manzil]
+2016/03/15 15:43:45.868 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A14:Khairatabad]
+2016/03/15 15:43:45.868 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A15:Lakdikapul]
+2016/03/15 15:43:45.868 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A16:Assembly]
+2016/03/15 15:43:45.868 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A17:Nampally]
+2016/03/15 15:43:45.869 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A18:Gandhi Bhavan]
+2016/03/15 15:43:45.869 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A19:Osmania Medical College]
+2016/03/15 15:43:45.869 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [X2:MG Bus station]
+2016/03/15 15:43:45.869 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A21:Malakpet]
+2016/03/15 15:43:45.869 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A22:New Market]
+2016/03/15 15:43:45.870 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A23:Musarambagh]
+2016/03/15 15:43:45.870 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A24:Dilsukhnagar]
+2016/03/15 15:43:45.870 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A25:Chaitanyapuri]
+2016/03/15 15:43:45.870 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A26:Victoria Memorial]
+2016/03/15 15:43:45.870 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A27:L B Nagar]
+2016/03/15 15:43:45.871 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:27 - Registered Line: Line [line1: Line I]
+2016/03/15 15:43:45.871 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line2.json
+2016/03/15 15:43:45.872 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B1:JBS]
+2016/03/15 15:43:45.873 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [X3:Parade Grounds]
+2016/03/15 15:43:45.873 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B3:Secunderabad Railway Station]
+2016/03/15 15:43:45.873 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B4:Gandhi Hospital]
+2016/03/15 15:43:45.873 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B5:Musheerabad]
+2016/03/15 15:43:45.873 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B6:RTC Cross Roads]
+2016/03/15 15:43:45.874 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B7:Chikkadpally]
+2016/03/15 15:43:45.874 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B8:Narayanguda]
+2016/03/15 15:43:45.874 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B9:Sultan Bazar]
+2016/03/15 15:43:45.874 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B11:Salarjung Museum]
+2016/03/15 15:43:45.874 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B12:Charminar]
+2016/03/15 15:43:45.875 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B13:Shalibanda]
+2016/03/15 15:43:45.875 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B14:Shamsher Gunj]
+2016/03/15 15:43:45.875 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B15:Jungametta]
+2016/03/15 15:43:45.875 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B16:Falaknuma]
+2016/03/15 15:43:45.875 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:27 - Registered Line: Line [line2: Line II]
+2016/03/15 15:43:45.876 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line3.json
+2016/03/15 15:43:45.877 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C1:Nagole]
+2016/03/15 15:43:45.877 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C2:Uppal]
+2016/03/15 15:43:45.877 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C3:Survey of India]
+2016/03/15 15:43:45.877 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C4:NGRI]
+2016/03/15 15:43:45.877 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C5:Habsiguda]
+2016/03/15 15:43:45.878 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C6:Tarnaka]
+2016/03/15 15:43:45.878 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C7:Mettuguda]
+2016/03/15 15:43:45.878 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C8:Secunderabad]
+2016/03/15 15:43:45.878 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C10:Paradise]
+2016/03/15 15:43:45.878 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C11:Rasool Pura]
+2016/03/15 15:43:45.878 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C12:Prakash Nagar]
+2016/03/15 15:43:45.879 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C13:Begumpet]
+2016/03/15 15:43:45.879 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C15:Madhura Nagar]
+2016/03/15 15:43:45.879 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C16:Yusuf Guda]
+2016/03/15 15:43:45.879 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C17:Road No 5 Jubilee Hills]
+2016/03/15 15:43:45.879 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C18:Jubilee Hills Check Post]
+2016/03/15 15:43:45.880 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C19:Pedamma Temple]
+2016/03/15 15:43:45.880 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C20:Madhapur]
+2016/03/15 15:43:45.880 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C21:Durgam Chervu]
+2016/03/15 15:43:45.880 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C22:HITEC City]
+2016/03/15 15:43:45.880 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C23:Shilparamam]
+2016/03/15 15:43:45.881 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:27 - Registered Line: Line [line3: Line III]
+2016/03/15 15:43:45.882 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\fares.json
+2016/03/15 15:43:45.898 [main] DEBUG c.q.x.h.t.fares.FareCalculator.setFares:21 - Fares [baseFare=BaseFare [maxStations=3, minFare=10.0], lineFareMap={Line [line3: Line III]=3.0, Line [line1: Line I]=2.5, Line [line2: Line II]=2.0}]
+2016/03/15 15:43:45.901 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Rasool Pura to Nampally
+2016/03/15 15:43:45.902 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Rasool Pura to Current Route
+2016/03/15 15:43:45.902 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Rasool Pura:Line III] to Current Route
+2016/03/15 15:43:45.902 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Parade Grounds to Nampally
+2016/03/15 15:43:45.902 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Parade Grounds to Current Route
+2016/03/15 15:43:45.902 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between Rasool Pura & Ameerpet: Line III
+2016/03/15 15:43:45.903 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Parade Grounds:Line II] to Current Route
+2016/03/15 15:43:45.903 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from MG Bus station to Nampally
+2016/03/15 15:43:45.903 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added MG Bus station to Current Route
+2016/03/15 15:43:45.903 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between MG Bus station & Nampally: Line I
+2016/03/15 15:43:45.903 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:43 - Found Route to Destination: Route [stations=[Station [C11:Rasool Pura], Station [X3:Parade Grounds], Station [X2:MG Bus station], Station [A17:Nampally]]]
+2016/03/15 15:43:45.903 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Rasool Pura:Line III] to Current Route
+2016/03/15 15:43:45.904 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Ameerpet to Nampally
+2016/03/15 15:43:45.904 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Ameerpet to Current Route
+2016/03/15 15:43:45.904 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between Ameerpet & Nampally: Line I
+2016/03/15 15:43:45.904 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:43 - Found Route to Destination: Route [stations=[Station [C11:Rasool Pura], Station [X1:Ameerpet], Station [A17:Nampally]]]
+2016/03/15 15:43:45.905 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Rasool Pura & Parade Grounds: 2
+2016/03/15 15:43:45.905 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Parade Grounds & MG Bus station: 8
+2016/03/15 15:43:45.905 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between MG Bus station & Nampally: 3
+2016/03/15 15:43:45.905 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:58 - FareResult [totalFare=31.5, totalStations=13]
+2016/03/15 15:43:45.905 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Rasool Pura & Ameerpet: 3
+2016/03/15 15:43:45.906 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Ameerpet & Nampally: 6
+2016/03/15 15:43:45.906 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:58 - FareResult [totalFare=25.0, totalStations=9]
+2016/03/15 15:45:10.680 [main] WARN  c.q.x.h.t.entities.LineFactory.lambda$loadLines$0:31 - Deserialized line is NULL for /lines
+2016/03/15 15:45:10.685 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing /lines/line1.json
+2016/03/15 15:45:10.752 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A1:Miyapur]
+2016/03/15 15:45:10.753 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A2:JNTU College]
+2016/03/15 15:45:10.753 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A3:KPHB Colony]
+2016/03/15 15:45:10.753 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A4:Kukatpally]
+2016/03/15 15:45:10.754 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A5:Balanagar]
+2016/03/15 15:45:10.754 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A6:Moosapet]
+2016/03/15 15:45:10.754 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A7:Bharat Nagar]
+2016/03/15 15:45:10.754 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A8:Erragadda]
+2016/03/15 15:45:10.754 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A9:ESI Hospital]
+2016/03/15 15:45:10.755 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A10:S R Nagar]
+2016/03/15 15:45:10.755 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [X1:Ameerpet]
+2016/03/15 15:45:10.755 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A12:Punjagutta]
+2016/03/15 15:45:10.755 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A13:Irrum Manzil]
+2016/03/15 15:45:10.756 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A14:Khairatabad]
+2016/03/15 15:45:10.756 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A15:Lakdikapul]
+2016/03/15 15:45:10.756 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A16:Assembly]
+2016/03/15 15:45:10.756 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A17:Nampally]
+2016/03/15 15:45:10.756 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A18:Gandhi Bhavan]
+2016/03/15 15:45:10.757 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A19:Osmania Medical College]
+2016/03/15 15:45:10.757 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [X2:MG Bus station]
+2016/03/15 15:45:10.757 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A21:Malakpet]
+2016/03/15 15:45:10.757 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A22:New Market]
+2016/03/15 15:45:10.758 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A23:Musarambagh]
+2016/03/15 15:45:10.758 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A24:Dilsukhnagar]
+2016/03/15 15:45:10.758 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A25:Chaitanyapuri]
+2016/03/15 15:45:10.758 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A26:Victoria Memorial]
+2016/03/15 15:45:10.758 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [A27:L B Nagar]
+2016/03/15 15:45:10.759 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:27 - Registered Line: Line [line1: Line I]
+2016/03/15 15:45:10.760 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing /lines/line3.json
+2016/03/15 15:45:10.761 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C1:Nagole]
+2016/03/15 15:45:10.761 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C2:Uppal]
+2016/03/15 15:45:10.761 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C3:Survey of India]
+2016/03/15 15:45:10.761 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C4:NGRI]
+2016/03/15 15:45:10.762 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C5:Habsiguda]
+2016/03/15 15:45:10.762 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C6:Tarnaka]
+2016/03/15 15:45:10.762 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C7:Mettuguda]
+2016/03/15 15:45:10.762 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C8:Secunderabad]
+2016/03/15 15:45:10.762 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [X3:Parade Grounds]
+2016/03/15 15:45:10.763 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C10:Paradise]
+2016/03/15 15:45:10.763 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C11:Rasool Pura]
+2016/03/15 15:45:10.763 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C12:Prakash Nagar]
+2016/03/15 15:45:10.763 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C13:Begumpet]
+2016/03/15 15:45:10.764 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C15:Madhura Nagar]
+2016/03/15 15:45:10.764 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C16:Yusuf Guda]
+2016/03/15 15:45:10.764 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C17:Road No 5 Jubilee Hills]
+2016/03/15 15:45:10.764 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C18:Jubilee Hills Check Post]
+2016/03/15 15:45:10.764 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C19:Pedamma Temple]
+2016/03/15 15:45:10.765 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C20:Madhapur]
+2016/03/15 15:45:10.765 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C21:Durgam Chervu]
+2016/03/15 15:45:10.765 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C22:HITEC City]
+2016/03/15 15:45:10.765 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [C23:Shilparamam]
+2016/03/15 15:45:10.765 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:27 - Registered Line: Line [line3: Line III]
+2016/03/15 15:45:10.766 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing /lines/line2.json
+2016/03/15 15:45:10.767 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B1:JBS]
+2016/03/15 15:45:10.767 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B3:Secunderabad Railway Station]
+2016/03/15 15:45:10.767 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B4:Gandhi Hospital]
+2016/03/15 15:45:10.767 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B5:Musheerabad]
+2016/03/15 15:45:10.767 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B6:RTC Cross Roads]
+2016/03/15 15:45:10.768 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B7:Chikkadpally]
+2016/03/15 15:45:10.768 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B8:Narayanguda]
+2016/03/15 15:45:10.768 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B9:Sultan Bazar]
+2016/03/15 15:45:10.768 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B11:Salarjung Museum]
+2016/03/15 15:45:10.768 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B12:Charminar]
+2016/03/15 15:45:10.769 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B13:Shalibanda]
+2016/03/15 15:45:10.769 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B14:Shamsher Gunj]
+2016/03/15 15:45:10.769 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B15:Jungametta]
+2016/03/15 15:45:10.769 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:19 - Registered Station: Station [B16:Falaknuma]
+2016/03/15 15:45:10.770 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:27 - Registered Line: Line [line2: Line II]
+2016/03/15 15:45:10.772 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:21 - Deserializing /fares.json
+2016/03/15 15:45:10.785 [main] DEBUG c.q.x.h.t.fares.FareCalculator.setFares:21 - Fares [baseFare=BaseFare [maxStations=3, minFare=10.0], lineFareMap={Line [line1: Line I]=2.5, Line [line3: Line III]=3.0, Line [line2: Line II]=2.0}]
+2016/03/15 15:45:29.069 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Lakdikapul to Prakash Nagar
+2016/03/15 15:45:29.070 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Lakdikapul to Current Route
+2016/03/15 15:45:29.070 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Lakdikapul:Line I] to Current Route
+2016/03/15 15:45:29.071 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Ameerpet to Prakash Nagar
+2016/03/15 15:45:29.072 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Ameerpet to Current Route
+2016/03/15 15:45:29.072 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between Ameerpet & Prakash Nagar: Line III
+2016/03/15 15:45:29.073 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:43 - Found Route to Destination: Route [stations=[Station [A15:Lakdikapul], Station [X1:Ameerpet], Station [C12:Prakash Nagar]]]
+2016/03/15 15:45:29.073 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [Lakdikapul:Line I] to Current Route
+2016/03/15 15:45:29.074 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from MG Bus station to Prakash Nagar
+2016/03/15 15:45:29.074 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added MG Bus station to Current Route
+2016/03/15 15:45:29.075 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between Lakdikapul & Ameerpet: Line I
+2016/03/15 15:45:29.075 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:34 - Added [MG Bus station:Line II] to Current Route
+2016/03/15 15:45:29.076 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:23 - Getting route from Parade Grounds to Prakash Nagar
+2016/03/15 15:45:29.076 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:25 - Added Parade Grounds to Current Route
+2016/03/15 15:45:29.077 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:50 - Common Line between Parade Grounds & Prakash Nagar: Line III
+2016/03/15 15:45:29.077 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:43 - Found Route to Destination: Route [stations=[Station [A15:Lakdikapul], Station [X2:MG Bus station], Station [X3:Parade Grounds], Station [C12:Prakash Nagar]]]
+2016/03/15 15:45:29.080 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Lakdikapul & Ameerpet: 4
+2016/03/15 15:45:29.081 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Ameerpet & Prakash Nagar: 2
+2016/03/15 15:45:29.081 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:58 - FareResult [totalFare=18.5, totalStations=6]
+2016/03/15 15:45:29.082 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Lakdikapul & MG Bus station: 5
+2016/03/15 15:45:29.082 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between MG Bus station & Parade Grounds: 8
+2016/03/15 15:45:29.083 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:55 - Stations Between Parade Grounds & Prakash Nagar: 3
+2016/03/15 15:45:29.083 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:58 - FareResult [totalFare=40.0, totalStations=16]
+2016/03/15 17:43:53.660 [main] WARN  c.q.x.h.t.entities.LineFactory.lambda$0:47 - Deserialized line is NULL for D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines
+2016/03/15 17:43:53.664 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:37 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line1.json
+2016/03/15 17:43:53.711 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A1:Miyapur]
+2016/03/15 17:43:53.711 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A2:JNTU College]
+2016/03/15 17:43:53.711 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A3:KPHB Colony]
+2016/03/15 17:43:53.711 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A4:Kukatpally]
+2016/03/15 17:43:53.711 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A5:Balanagar]
+2016/03/15 17:43:53.711 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A6:Moosapet]
+2016/03/15 17:43:53.712 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A7:Bharat Nagar]
+2016/03/15 17:43:53.712 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A8:Erragadda]
+2016/03/15 17:43:53.712 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A9:ESI Hospital]
+2016/03/15 17:43:53.712 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A10:S R Nagar]
+2016/03/15 17:43:53.712 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [X1:Ameerpet]
+2016/03/15 17:43:53.712 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A12:Punjagutta]
+2016/03/15 17:43:53.712 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A13:Irrum Manzil]
+2016/03/15 17:43:53.712 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A14:Khairatabad]
+2016/03/15 17:43:53.713 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A15:Lakdikapul]
+2016/03/15 17:43:53.713 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A16:Assembly]
+2016/03/15 17:43:53.713 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A17:Nampally]
+2016/03/15 17:43:53.713 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A18:Gandhi Bhavan]
+2016/03/15 17:43:53.713 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A19:Osmania Medical College]
+2016/03/15 17:43:53.713 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [X2:MG Bus station]
+2016/03/15 17:43:53.713 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A21:Malakpet]
+2016/03/15 17:43:53.713 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A22:New Market]
+2016/03/15 17:43:53.713 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A23:Musarambagh]
+2016/03/15 17:43:53.714 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A24:Dilsukhnagar]
+2016/03/15 17:43:53.714 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A25:Chaitanyapuri]
+2016/03/15 17:43:53.714 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A26:Victoria Memorial]
+2016/03/15 17:43:53.714 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A27:L B Nagar]
+2016/03/15 17:43:53.714 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:43 - Registered Line: Line [line1: Line I]
+2016/03/15 17:43:53.715 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:37 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line2.json
+2016/03/15 17:43:53.715 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B1:JBS]
+2016/03/15 17:43:53.715 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [X3:Parade Grounds]
+2016/03/15 17:43:53.715 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B3:Secunderabad Railway Station]
+2016/03/15 17:43:53.716 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B4:Gandhi Hospital]
+2016/03/15 17:43:53.716 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B5:Musheerabad]
+2016/03/15 17:43:53.716 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B6:RTC Cross Roads]
+2016/03/15 17:43:53.716 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B7:Chikkadpally]
+2016/03/15 17:43:53.716 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B8:Narayanguda]
+2016/03/15 17:43:53.716 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B9:Sultan Bazar]
+2016/03/15 17:43:53.716 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B11:Salarjung Museum]
+2016/03/15 17:43:53.717 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B12:Charminar]
+2016/03/15 17:43:53.717 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B13:Shalibanda]
+2016/03/15 17:43:53.717 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B14:Shamsher Gunj]
+2016/03/15 17:43:53.717 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B15:Jungametta]
+2016/03/15 17:43:53.717 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B16:Falaknuma]
+2016/03/15 17:43:53.717 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:43 - Registered Line: Line [line2: Line II]
+2016/03/15 17:43:53.718 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:37 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\lines\line3.json
+2016/03/15 17:43:53.718 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C1:Nagole]
+2016/03/15 17:43:53.718 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C2:Uppal]
+2016/03/15 17:43:53.719 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C3:Survey of India]
+2016/03/15 17:43:53.719 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C4:NGRI]
+2016/03/15 17:43:53.719 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C5:Habsiguda]
+2016/03/15 17:43:53.719 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C6:Tarnaka]
+2016/03/15 17:43:53.719 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C7:Mettuguda]
+2016/03/15 17:43:53.719 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C8:Secunderabad]
+2016/03/15 17:43:53.719 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C10:Paradise]
+2016/03/15 17:43:53.719 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C11:Rasool Pura]
+2016/03/15 17:43:53.719 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C12:Prakash Nagar]
+2016/03/15 17:43:53.720 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C13:Begumpet]
+2016/03/15 17:43:53.720 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C15:Madhura Nagar]
+2016/03/15 17:43:53.720 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C16:Yusuf Guda]
+2016/03/15 17:43:53.720 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C17:Road No 5 Jubilee Hills]
+2016/03/15 17:43:53.720 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C18:Jubilee Hills Check Post]
+2016/03/15 17:43:53.720 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C19:Pedamma Temple]
+2016/03/15 17:43:53.720 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C20:Madhapur]
+2016/03/15 17:43:53.720 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C21:Durgam Chervu]
+2016/03/15 17:43:53.720 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C22:HITEC City]
+2016/03/15 17:43:53.721 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C23:Shilparamam]
+2016/03/15 17:43:53.721 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:43 - Registered Line: Line [line3: Line III]
+2016/03/15 17:43:53.722 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:37 - Deserializing D:\workspace\github\git_repos\xphydmar2016\xpdevcamp\hmr-ticketing-svc\target\classes\fares.json
+2016/03/15 17:43:53.731 [main] DEBUG c.q.x.h.t.fares.FareCalculator.setFares:37 - Fares [baseFare=BaseFare [maxStations=3, minFare=10.0], lineFareMap={Line [line3: Line III]=3.0, Line [line1: Line I]=2.5, Line [line2: Line II]=2.0}]
+2016/03/15 17:43:53.733 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:64 - Getting route from Rasool Pura to Nampally
+2016/03/15 17:43:53.734 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:66 - Added Rasool Pura to Current Route
+2016/03/15 17:43:53.734 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:75 - Added [Rasool Pura:Line III] to Current Route
+2016/03/15 17:43:53.734 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:64 - Getting route from Parade Grounds to Nampally
+2016/03/15 17:43:53.734 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:66 - Added Parade Grounds to Current Route
+2016/03/15 17:43:53.734 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:102 - Common Line between Rasool Pura & Ameerpet: Line III
+2016/03/15 17:43:53.734 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:75 - Added [Parade Grounds:Line II] to Current Route
+2016/03/15 17:43:53.734 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:64 - Getting route from MG Bus station to Nampally
+2016/03/15 17:43:53.734 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:66 - Added MG Bus station to Current Route
+2016/03/15 17:43:53.734 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:102 - Common Line between MG Bus station & Nampally: Line I
+2016/03/15 17:43:53.735 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:84 - Found Route to Destination: Route [stations=[Station [C11:Rasool Pura], Station [X3:Parade Grounds], Station [X2:MG Bus station], Station [A17:Nampally]]]
+2016/03/15 17:43:53.735 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:75 - Added [Rasool Pura:Line III] to Current Route
+2016/03/15 17:43:53.735 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:64 - Getting route from Ameerpet to Nampally
+2016/03/15 17:43:53.735 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:66 - Added Ameerpet to Current Route
+2016/03/15 17:43:53.735 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:102 - Common Line between Ameerpet & Nampally: Line I
+2016/03/15 17:43:53.735 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:84 - Found Route to Destination: Route [stations=[Station [C11:Rasool Pura], Station [X1:Ameerpet], Station [A17:Nampally]]]
+2016/03/15 17:43:53.736 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:71 - Stations Between Rasool Pura & Parade Grounds: 2
+2016/03/15 17:43:53.736 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:71 - Stations Between Parade Grounds & MG Bus station: 8
+2016/03/15 17:43:53.736 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:71 - Stations Between MG Bus station & Nampally: 3
+2016/03/15 17:43:53.736 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:74 - FareResult [totalFare=31.5, totalStations=13]
+2016/03/15 17:43:53.736 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:71 - Stations Between Rasool Pura & Ameerpet: 3
+2016/03/15 17:43:53.736 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:71 - Stations Between Ameerpet & Nampally: 6
+2016/03/15 17:43:53.736 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:74 - FareResult [totalFare=25.0, totalStations=9]
+2016/03/15 19:18:17.327 [main] WARN  c.q.x.h.t.entities.LineFactory.lambda$loadLines$0:47 - Deserialized line is NULL for /lines
+2016/03/15 19:18:17.330 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:37 - Deserializing /lines/line2.json
+2016/03/15 19:18:17.372 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B1:JBS]
+2016/03/15 19:18:17.372 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [X3:Parade Grounds]
+2016/03/15 19:18:17.373 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B3:Secunderabad Railway Station]
+2016/03/15 19:18:17.373 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B4:Gandhi Hospital]
+2016/03/15 19:18:17.373 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B5:Musheerabad]
+2016/03/15 19:18:17.373 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B6:RTC Cross Roads]
+2016/03/15 19:18:17.373 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B7:Chikkadpally]
+2016/03/15 19:18:17.373 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B8:Narayanguda]
+2016/03/15 19:18:17.373 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B9:Sultan Bazar]
+2016/03/15 19:18:17.373 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [X2:M G Bus Station]
+2016/03/15 19:18:17.374 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B11:Salarjung Museum]
+2016/03/15 19:18:17.374 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B12:Charminar]
+2016/03/15 19:18:17.374 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B13:Shalibanda]
+2016/03/15 19:18:17.374 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B14:Shamsher Gunj]
+2016/03/15 19:18:17.374 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B15:Jungametta]
+2016/03/15 19:18:17.374 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [B16:Falaknuma]
+2016/03/15 19:18:17.375 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:43 - Registered Line: Line [line2: Line II]
+2016/03/15 19:18:17.375 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:37 - Deserializing /lines/line1.json
+2016/03/15 19:18:17.376 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A1:Miyapur]
+2016/03/15 19:18:17.376 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A2:JNTU College]
+2016/03/15 19:18:17.376 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A3:KPHB Colony]
+2016/03/15 19:18:17.376 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A4:Kukatpally]
+2016/03/15 19:18:17.376 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A5:Balanagar]
+2016/03/15 19:18:17.376 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A6:Moosapet]
+2016/03/15 19:18:17.376 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A7:Bharat Nagar]
+2016/03/15 19:18:17.376 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A8:Erragadda]
+2016/03/15 19:18:17.377 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A9:ESI Hospital]
+2016/03/15 19:18:17.377 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A10:S R Nagar]
+2016/03/15 19:18:17.377 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [X1:Ameerpet]
+2016/03/15 19:18:17.377 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A12:Punjagutta]
+2016/03/15 19:18:17.377 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A13:Irrum Manzil]
+2016/03/15 19:18:17.377 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A14:Khairatabad]
+2016/03/15 19:18:17.377 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A15:Lakdikapul]
+2016/03/15 19:18:17.378 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A16:Assembly]
+2016/03/15 19:18:17.378 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A17:Nampally]
+2016/03/15 19:18:17.378 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A18:Gandhi Bhavan]
+2016/03/15 19:18:17.378 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A19:Osmania Medical College]
+2016/03/15 19:18:17.378 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A21:Malakpet]
+2016/03/15 19:18:17.378 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A22:New Market]
+2016/03/15 19:18:17.378 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A23:Musarambagh]
+2016/03/15 19:18:17.378 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A24:Dilsukhnagar]
+2016/03/15 19:18:17.378 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A25:Chaitanyapuri]
+2016/03/15 19:18:17.379 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A26:Victoria Memorial]
+2016/03/15 19:18:17.379 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [A27:L B Nagar]
+2016/03/15 19:18:17.379 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:43 - Registered Line: Line [line1: Line I]
+2016/03/15 19:18:17.379 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:37 - Deserializing /lines/line3.json
+2016/03/15 19:18:17.380 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C1:Nagole]
+2016/03/15 19:18:17.380 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C2:Uppal]
+2016/03/15 19:18:17.380 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C3:Survey of India]
+2016/03/15 19:18:17.380 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C4:NGRI]
+2016/03/15 19:18:17.380 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C5:Habsiguda]
+2016/03/15 19:18:17.380 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C6:Tarnaka]
+2016/03/15 19:18:17.380 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C7:Mettuguda]
+2016/03/15 19:18:17.380 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C8:Secunderabad]
+2016/03/15 19:18:17.381 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C10:Paradise]
+2016/03/15 19:18:17.381 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C11:Rasool Pura]
+2016/03/15 19:18:17.381 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C12:Prakash Nagar]
+2016/03/15 19:18:17.381 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C13:Begumpet]
+2016/03/15 19:18:17.381 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C15:Madhura Nagar]
+2016/03/15 19:18:17.381 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C16:Yusuf Guda]
+2016/03/15 19:18:17.381 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C17:Road No 5 Jubilee Hills]
+2016/03/15 19:18:17.381 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C18:Jubilee Hills Check Post]
+2016/03/15 19:18:17.382 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C19:Pedamma Temple]
+2016/03/15 19:18:17.382 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C20:Madhapur]
+2016/03/15 19:18:17.382 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C21:Durgam Chervu]
+2016/03/15 19:18:17.382 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C22:HITEC City]
+2016/03/15 19:18:17.382 [main] DEBUG c.q.x.h.t.model.StationRegistry.addStation:35 - Registered Station: Station [C23:Shilparamam]
+2016/03/15 19:18:17.382 [main] DEBUG c.q.x.h.ticketing.model.LineRegistry.addLine:43 - Registered Line: Line [line3: Line III]
+2016/03/15 19:18:17.384 [main] DEBUG c.q.x.h.ticketing.entities.JsonUtil.deserialize:37 - Deserializing /fares.json
+2016/03/15 19:18:17.393 [main] DEBUG c.q.x.h.t.fares.FareCalculator.setFares:44 - Fares [baseFare=BaseFare [maxStations=3, minFare=10.0], lineFareMap={Line [line2: Line II]=2.0, Line [line1: Line I]=2.5, Line [line3: Line III]=3.0}]
+2016/03/15 19:18:23.082 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:66 - Getting route from Survey of India to Musheerabad
+2016/03/15 19:18:23.082 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:68 - Added Survey of India to Current Route
+2016/03/15 19:18:23.083 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:77 - Added [Survey of India:Line III] to Current Route
+2016/03/15 19:18:23.084 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:66 - Getting route from Parade Grounds to Musheerabad
+2016/03/15 19:18:23.084 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:68 - Added Parade Grounds to Current Route
+2016/03/15 19:18:23.085 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:104 - Common Line between Parade Grounds & Musheerabad: Line II
+2016/03/15 19:18:23.085 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:86 - Found Route to Destination: Route [stations=[Station [C3:Survey of India], Station [X3:Parade Grounds], Station [B5:Musheerabad]]]
+2016/03/15 19:18:23.086 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:77 - Added [Survey of India:Line III] to Current Route
+2016/03/15 19:18:23.086 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:66 - Getting route from Ameerpet to Musheerabad
+2016/03/15 19:18:23.086 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:68 - Added Ameerpet to Current Route
+2016/03/15 19:18:23.087 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:77 - Added [Ameerpet:Line I] to Current Route
+2016/03/15 19:18:23.087 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:66 - Getting route from M G Bus Station to Musheerabad
+2016/03/15 19:18:23.087 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:68 - Added M G Bus Station to Current Route
+2016/03/15 19:18:23.088 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:104 - Common Line between M G Bus Station & Musheerabad: Line II
+2016/03/15 19:18:23.088 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getRoute:86 - Found Route to Destination: Route [stations=[Station [C3:Survey of India], Station [X1:Ameerpet], Station [X2:M G Bus Station], Station [B5:Musheerabad]]]
+2016/03/15 19:18:23.089 [main] DEBUG c.q.x.h.t.routing.RouteFinder.getCommonLine:104 - Common Line between Survey of India & Parade Grounds: Line III
+2016/03/15 19:18:23.090 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:78 - Stations Between Survey of India & Parade Grounds: 6
+2016/03/15 19:18:23.090 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:78 - Stations Between Parade Grounds & Musheerabad: 3
+2016/03/15 19:18:23.091 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:81 - FareResult [totalFare=25.0, totalStations=9]
+2016/03/15 19:18:23.091 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:78 - Stations Between Survey of India & Ameerpet: 11
+2016/03/15 19:18:23.092 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:78 - Stations Between Ameerpet & M G Bus Station: 9
+2016/03/15 19:18:23.092 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:78 - Stations Between M G Bus Station & Musheerabad: 5
+2016/03/15 19:18:23.092 [main] DEBUG c.q.x.h.t.fares.FareCalculator.getFareResult:81 - FareResult [totalFare=66.5, totalStations=25]

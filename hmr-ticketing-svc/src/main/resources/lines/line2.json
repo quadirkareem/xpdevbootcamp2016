@@ -1,0 +1,87 @@
+{
+	"code": "line2",
+	"name": "Line II",
+	"length": "15 KM",
+	"stationList": 
+	[
+		{
+			"code": "B1",
+			"name": "JBS"
+		},
+
+		{
+			"code": "X3",
+			"name": "Parade Grounds"
+		},
+
+		{
+			"code": "B3",
+			"name": "Secunderabad Railway Station"
+		},
+
+		{
+			"code": "B4",
+			"name": "Gandhi Hospital"
+		},
+
+		{
+			"code": "B5",
+			"name": "Musheerabad"
+		},
+
+		{
+			"code": "B6",
+			"name": "RTC Cross Roads"
+		},
+
+		{
+			"code": "B7",
+			"name": "Chikkadpally"
+		},
+
+		{
+			"code": "B8",
+			"name": "Narayanguda"
+		},
+
+		{
+			"code": "B9",
+			"name": "Sultan Bazar"
+		},
+
+		{
+			"code": "X2",
+			"name": "M G Bus Station"
+		},
+
+		{
+			"code": "B11",
+			"name": "Salarjung Museum"
+		},
+
+		{
+			"code": "B12",
+			"name": "Charminar"
+		},
+
+		{
+			"code": "B13",
+			"name": "Shalibanda"
+		},
+
+		{
+			"code": "B14",
+			"name": "Shamsher Gunj"
+		},
+
+		{
+			"code": "B15",
+			"name": "Jungametta"
+		},
+
+		{
+			"code": "B16",
+			"name": "Falaknuma"
+		}
+	]
+}

@@ -1,0 +1,142 @@
+{
+	"code": "line1",
+	"name": "Line I",
+	"length": "29 KM",
+	"stationList": 
+	[
+		{
+			"code": "A1",
+			"name": "Miyapur"
+		},
+
+		{
+			"code": "A2",
+			"name": "JNTU College"
+		},
+
+		{
+			"code": "A3",
+			"name": "KPHB Colony"
+		},
+
+		{
+			"code": "A4",
+			"name": "Kukatpally"
+		},
+
+		{
+			"code": "A5",
+			"name": "Balanagar"
+		},
+
+		{
+			"code": "A6",
+			"name": "Moosapet"
+		},
+
+		{
+			"code": "A7",
+			"name": "Bharat Nagar"
+		},
+
+		{
+			"code": "A8",
+			"name": "Erragadda"
+		},
+
+		{
+			"code": "A9",
+			"name": "ESI Hospital"
+		},
+
+		{
+			"code": "A10",
+			"name": "S R Nagar"
+		},
+
+		{
+			"code": "X1",
+			"name": "Ameerpet"
+		},
+
+		{
+			"code": "A12",
+			"name": "Punjagutta"
+		},
+
+		{
+			"code": "A13",
+			"name": "Irrum Manzil"
+		},
+
+		{
+			"code": "A14",
+			"name": "Khairatabad"
+		},
+
+		{
+			"code": "A15",
+			"name": "Lakdikapul"
+		},
+
+		{
+			"code": "A16",
+			"name": "Assembly"
+		},
+
+		{
+			"code": "A17",
+			"name": "Nampally"
+		},
+
+		{
+			"code": "A18",
+			"name": "Gandhi Bhavan"
+		},
+
+		{
+			"code": "A19",
+			"name": "Osmania Medical College"
+		},
+
+		{
+			"code": "X2",
+			"name": "MG Bus station"
+		},
+
+		{
+			"code": "A21",
+			"name": "Malakpet"
+		},
+
+		{
+			"code": "A22",
+			"name": "New Market"
+		},
+
+		{
+			"code": "A23",
+			"name": "Musarambagh"
+		},
+
+		{
+			"code": "A24",
+			"name": "Dilsukhnagar"
+		},
+
+		{
+			"code": "A25",
+			"name": "Chaitanyapuri"
+		},
+
+		{
+			"code": "A26",
+			"name": "Victoria Memorial"
+		},
+
+		{
+			"code": "A27",
+			"name": "L B Nagar"
+		}
+	]
+}

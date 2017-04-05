@@ -1,0 +1,11 @@
+{
+  "baseFare": {
+    "maxStations": 3,
+    "minFare": 10
+  },
+  "lineFareMap": {
+    "line1": 2.5,
+    "line2": 2,
+    "line3": 3
+  }
+}
